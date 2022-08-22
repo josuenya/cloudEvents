@@ -1,8 +1,9 @@
 <template>
-    <header>
-        <button @click="prev()">Prev</button>
-        <button @click="next()">Next</button>
-    </header>
+<!--    <header>-->
+<!--        <button @click="prev()">Prev</button>-->
+<!--        <button @click="next()">Next</button>-->
+<!--    </header>-->
+    <div class="text-center py-5 text-2xl font-bold text-blue-600">Liste des Evenements de la Plateforme</div>
     <section class="calendar-outer-container">
         <full-calendar ref="calendarRef" :options="calendarOptions" />
     </section>
@@ -52,6 +53,7 @@ export default defineComponent({
 
         const state = reactive({
             calendarOptions: {
+                locale: 'fr',
                 headerToolbar: {
                     left: "prev,next today",
                     center: "title",
