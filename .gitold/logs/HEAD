@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 8776e0e784ce7e17c3ba4d2710f5f20b6a3bf85b josuenya <josuenya23@gmail.com> 1660938156 +0100	commit (initial): first commit
+8776e0e784ce7e17c3ba4d2710f5f20b6a3bf85b 0000000000000000000000000000000000000000 josuenya <josuenya23@gmail.com> 1660938171 +0100	Branch: renamed refs/heads/master to refs/heads/master
+8776e0e784ce7e17c3ba4d2710f5f20b6a3bf85b 8776e0e784ce7e17c3ba4d2710f5f20b6a3bf85b josuenya <josuenya23@gmail.com> 1660938171 +0100	Branch: renamed refs/heads/master to refs/heads/master
+8776e0e784ce7e17c3ba4d2710f5f20b6a3bf85b 8776e0e784ce7e17c3ba4d2710f5f20b6a3bf85b josuenya <josuenya23@gmail.com> 1660938233 +0100	checkout: moving from master to develop
+8776e0e784ce7e17c3ba4d2710f5f20b6a3bf85b e993654fd6e18dbf6f9542a6718fc9e0eda0bec5 josuenya <josuenya23@gmail.com> 1661103790 +0100	commit: wip
+e993654fd6e18dbf6f9542a6718fc9e0eda0bec5 e0152cbecc85ad454c17a618c891acb8411e9b89 josuenya <josuenya23@gmail.com> 1661122243 +0100	commit: wip
+e0152cbecc85ad454c17a618c891acb8411e9b89 1d540b9b03b0152d933f71c806cf846646425cdf josuenya <josuenya23@gmail.com> 1661122562 +0100	commit: heroku configuration
+1d540b9b03b0152d933f71c806cf846646425cdf e04752dbb459f38abb0bd4760deaab7223ff3ec3 josuenya <josuenya23@gmail.com> 1661123875 +0100	commit: heroku configuration
+e04752dbb459f38abb0bd4760deaab7223ff3ec3 ed31d42e85c44e0b533c982169dfacfee5ac8f7b josuenya <josuenya23@gmail.com> 1661124564 +0100	commit: wip
+ed31d42e85c44e0b533c982169dfacfee5ac8f7b 8776e0e784ce7e17c3ba4d2710f5f20b6a3bf85b josuenya <josuenya23@gmail.com> 1661124733 +0100	checkout: moving from develop to master
+8776e0e784ce7e17c3ba4d2710f5f20b6a3bf85b ed31d42e85c44e0b533c982169dfacfee5ac8f7b josuenya <josuenya23@gmail.com> 1661124769 +0100	merge develop: Fast-forward
+ed31d42e85c44e0b533c982169dfacfee5ac8f7b ecf4068162ab60971c4c5b866ac5e9693cbb5f96 josuenya <josuenya23@gmail.com> 1661125694 +0100	commit: add htaccess
+ecf4068162ab60971c4c5b866ac5e9693cbb5f96 08a7026cb9125cb2852d24071a426e0dc0bd5d4c josuenya <josuenya23@gmail.com> 1661125882 +0100	commit: edit htaccess
+08a7026cb9125cb2852d24071a426e0dc0bd5d4c 731c3208441bf1b1b20474706c0013302bbfb336 josuenya <josuenya23@gmail.com> 1661126299 +0100	commit: edit composer.json
+731c3208441bf1b1b20474706c0013302bbfb336 733a1aa692ab5c7e008e7cc44fe2ca382eabf4ad josuenya <josuenya23@gmail.com> 1661127292 +0100	commit: wip
+733a1aa692ab5c7e008e7cc44fe2ca382eabf4ad 8a50235fc5a9d258a7894ee773e513c296b94e08 josuenya <josuenya23@gmail.com> 1661128107 +0100	commit: wip
+8a50235fc5a9d258a7894ee773e513c296b94e08 993f2ec6fe6f9447427a50bbfc1754bf51994df6 josuenya <josuenya23@gmail.com> 1661128534 +0100	commit: wip
