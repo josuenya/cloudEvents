@@ -12,9 +12,6 @@ const modal = reactive ({
     display: false
 })
 
-onMounted(() => {
-    // console.log('events', events)
-})
 </script>
 
 <template>
@@ -33,7 +30,7 @@ onMounted(() => {
                 </div>
             </div>
         </div>
-        <div class="" style="min-height: calc(100vh - 40px) !important;">
+        <div class="">
             <vue-calendar :EventsData="events" />
         </div>
     </div>

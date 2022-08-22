@@ -1,8 +1,8 @@
 <template>
-    <header>
-        <button @click="prev()">Prev</button>
-        <button @click="next()">Next</button>
-    </header>
+<!--    <div class="px-3 flex justify-center space-x-5 mt-2">-->
+<!--        <button class="cursor-pointer rounded-lg text-white px-5 py-1 bg-gray-500" @click="prev()">Prev</button>-->
+<!--        <button class="cursor-pointer rounded-lg text-white px-5 py-1 bg-gray-500" @click="next()">Next</button>-->
+<!--    </div>-->
     <section class="calendar-outer-container">
         <full-calendar ref="calendarRef" :options="calendarOptions" />
     </section>
@@ -59,6 +59,7 @@ export default defineComponent({
                 },
                 events: [],
                 displayEventTime: false,
+                locale: 'fr',
                 initialView: "dayGridMonth",
                 plugins: [dayGridPlugin, listPlugin, interactionPlugin, rrulePlugin],
 
